@@ -1,20 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Cardioid&#39;s studyaccount</title>
   
-  
+  <subtitle>������֮���� ֪����֮��׷</subtitle>
   <link href="https://cardioidlee.github.io/atom.xml" rel="self"/>
   
   <link href="https://cardioidlee.github.io/"/>
-  <updated>2023-04-04T09:50:32.217Z</updated>
+  <updated>2023-04-04T12:35:03.741Z</updated>
   <id>https://cardioidlee.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Cardioid</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>New</title>
+    <link href="https://cardioidlee.github.io/2023/04/04/New/"/>
+    <id>https://cardioidlee.github.io/2023/04/04/New/</id>
+    <published>2023-04-04T12:35:03.000Z</published>
+    <updated>2023-04-04T12:35:03.741Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
